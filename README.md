@@ -1,4 +1,4 @@
-Preparation (Original )
+
 * Core Stack 
     * NodeJs
     * Javascript
