@@ -1,10 +1,82 @@
-
+Preparation (Original )
 * Core Stack 
     * NodeJs
+        * Asynchronous programming
+        * Event Loop 
+        * Phase of event loop
+        * MicroTask vs MacroTask
+        * Promises 
+            * allSettle
+            * all
+            * race
+            * resolve
+            * reject
+        * Stream
+            * Buffer vs Stream
+            * chunks
+            * type of streams
+                * Readable 
+                * Writable
+                * Duplex
+                * Transform 
+        * Exceptional Handling
+        * Error Handling
+        * Middleware
+            * Express Validator
+        * Express Session 
+        * Cookies
+        * Child Process
+            * fork
+            * spawn
+            * exec
+        * Cluster Module
+        * Scaling  NodeJs App
+            * PM2
+        * Passport
+        * Helmet
+        * OWASP
+            * Broken Access
+            * Broken Auth
+            * Security Misconfiguration
+            * Injection 
+            * Monitoring
+        * Require VS Import
+        * Event Emitters
+        * Reactor Pattern
     * Javascript
+        * Hoisting
+        * Call Bind Apply
+        * Prototype Inheritence
+        * Garbage Collection 
+            * WeakRef/WeakSet/WeakMap
+            * How it works in JS
+        * Closure
+        * Strict Mode
+        * ES6 modules
+            * Arrow function 
+        * Primitives
+        * Generators
+        * fetch vs xhr
+        * JSONP
+        * Callback
+        * Coercion
+        * Callback Hell
     * Typescript
+        * any 
+        * unknown
+        * generic type <T>
     * Express
+        * Middleware
+        * HTTP Headers
     * Angular
+        * Routing
+        * Modules
+        * Component
+        * Directive
+        * LifeCycle
+        * StandAlone Component
+        * ForkJoin
+        * Interceptors
     * React
 * System Design Exercises based interviews [twitter / Facebook etc…]
     * Real time chat application like WhatsApp
@@ -84,9 +156,9 @@
         * Pair Programming
     * CI & CD Pipeline
         * Jenkins
-        * Kubernatese
+        * Kubernetes
         * Ingress
-        * Enovy
+        * Envoy 
         * Istio
         * Docker
 * Testing
@@ -98,6 +170,7 @@
 * Terms Concepts
     * API’s [JSON]
     * GRPC [Proto Buff]
+    * GraphQL
     * Webhooks
     * Microservice
     * Serverless [Lambda + Framework]
