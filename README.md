@@ -78,6 +78,13 @@ Preparation (Original )
         * ForkJoin
         * Interceptors
     * React
+    * Design Pattern
+        * Module Pattern
+        * Prototype Pattern 
+        * Singleton Pattern
+        * Factory Pattern
+        * Adapter Pattern
+        * Observable Pattern
 * System Design Exercises based interviews [twitter / Facebook etc…]
     * Real time chat application like WhatsApp
     * Design Twitter
